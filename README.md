@@ -57,6 +57,4 @@ To stop and remove the Docker container when you're done, use the following comm
 docker stop my-postgres-container
 docker rm my-postgres-container
 docker rmi my-postgres-image
-docker build -t my-postgres-image .
-docker run --name my-postgres-container -d -p 5432:5432 --env-file .env my-postgres-image
 ```
