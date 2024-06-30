@@ -1,6 +1,17 @@
-# Dockerized PostgreSQL Setup
+# Bara - hackhcmc 2024 - Backend
 
-This repository contains a Dockerfile and initialization script to set up a PostgreSQL database with predefined schema using Docker.
+## Introduction 
+
+This repository contains the database schema and data for our application.
+
+### Frontend
+You can access our frontend server [here](https://github.com/AngelHack-APCS/hackhcmc_frontend)
+
+### Database
+You can access our backend server [here](https://github.com/AngelHack-APCS/hackhcmc_backend)
+
+### AI
+You can access our AI service [here](https://github.com/AngelHack-APCS/hackhcmc_ai)
 
 ## Prerequisites
 
